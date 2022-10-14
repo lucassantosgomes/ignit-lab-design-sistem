@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 # storybook
 storybook-static
+
+#...
+READM.md
